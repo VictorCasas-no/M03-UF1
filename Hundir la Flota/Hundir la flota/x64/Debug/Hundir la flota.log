@@ -1,5 +1,0 @@
-﻿  Hundir la flota.cpp
-C:\Users\Víctor Casas\source\repos\Hundir la flota\Hundir la flota\Hundir la flota.cpp(38,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\Víctor Casas\source\repos\Hundir la flota\Hundir la flota\Hundir la flota.cpp(192,26): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-C:\Users\Víctor Casas\source\repos\Hundir la flota\Hundir la flota\Hundir la flota.cpp(197,26): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-  Hundir la flota.vcxproj -> C:\Users\Víctor Casas\source\repos\Hundir la flota\x64\Debug\Hundir la flota.exe
